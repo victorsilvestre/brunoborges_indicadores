@@ -1,5 +1,7 @@
 # Instruções para agentes de IA
 
+> ⚠️ **Sincronização obrigatória:** este arquivo (`AGENTS.md`) e [`CLAUDE.md`](CLAUDE.md) devem ter **sempre o mesmo conteúdo**. Qualquer alteração feita em um dos dois deve ser replicada imediatamente no outro, no mesmo commit.
+
 Este repositório contém **exclusivamente** código em **NTSL (Nelogica Trading System Language)**, a linguagem proprietária da Nelogica usada no Editor de Estratégias da plataforma **Profit**.
 
 ## Regra fundamental
